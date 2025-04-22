@@ -11,9 +11,9 @@ to work with my product, copy the windows activation key you need and download a
 2 then click on button 2, and wait a few seconds until the activation is complete.
 
 -------------------------------------------------------------------------------------
+if Windows Defender pops up when starting my program, just ignore it because the program doesn't have a signature.
 
-
-
+------------------------------------------------------------------------------------
 
 
 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH — для Win 10, 11 Home (Домашняя);
