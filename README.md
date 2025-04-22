@@ -5,6 +5,8 @@ to work with my product, copy the windows activation key you need and download a
 
 ------------------------------------------------------------
  1.RUNNING AS AN ADMINISTRATOR ONLY
+
+ 
  2.enter the activation key by pressing the 1 button
 
 
