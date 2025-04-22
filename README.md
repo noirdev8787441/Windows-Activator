@@ -4,11 +4,13 @@ to work with my product, copy the windows activation key you need and download a
 
 
 ------------------------------------------------------------
- 1.enter the activation key by pressing the 1 button
+ 1.RUNNING AS AN ADMINISTRATOR ONLY
+ 2.enter the activation key by pressing the 1 button
 
 
 
-2 then click on button 2, and wait a few seconds until the activation is complete.
+
+3 then click on button 2, and wait a few seconds until the activation is complete.
 
 -------------------------------------------------------------------------------------
 if Windows Defender pops up when starting my program, just ignore it because the program doesn't have a signature.
